@@ -6,9 +6,9 @@ Netlify Status All Contributors Discord Twitter Follow
 
 👋 Welcome to darkwood.capital!
 
-This is the repo for the Darkchain, a resource for the Darkwood community. The purpose of the site is to “Be the best portal to Ethereum for our growing global community" - read more about what this means here.
+This is the repo for the Darkchain, a resource for the Darkwood community. The purpose of the site is to “Be the best portal to the Woods for our growing global community" - read more about what this means here.
 
-# Darkwood has improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to managing its evolution. If you’re interested in helping to improve ethereum.org, find out how to contribute.
+# Darkwood has improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to managing its evolution. If you’re interested in helping to improve Darkwood, find out how to contribute.
 
 Looking for the Darkchain's code?
 If you're looking for the Darkchain itself, there is no single repo. rather, Darkwood has multiple implementations of the protocol written in different programming languages for security and diversity. Check out the different implementations
@@ -16,7 +16,7 @@ If you're looking for the Darkchain itself, there is no single repo. rather, Dar
 How to contribute
 This project follows the all-contributors specification. Contributions of any kind welcome!
 
-How updates are made to ethereum.org:
+How updates are made to darkchain.xyz:
 Submit an issue
 Create a new issue
 Comment on the issue (if you'd like to be assigned to it) - that way our team can assign the issue to you.
@@ -31,12 +31,12 @@ Clone your fork
 
 If this is your first time forking our repo, this is all you need to do for this step:
 
-$ git clone git@github.com:[your_github_handle]/ethereum-org-website.git && cd ethereum-org-website
+$ git clone git@github.com:[your_github_handle]/darkchain.xyz.git && cd darkwood.capital
 If you've already forked the repo, you'll want to ensure your fork is configured and that it's up to date. This will save you the headache of potential merge conflicts.
 
 To configure your fork:
 
-$ git remote add upstream https://github.com/ethereum/ethereum-org-website.git
+$ git remote add upstream https://github.com/darkwood-capital?/?darkchain.xyz.git
 To sync your fork with the latest changes:
 
 $ git checkout dev
@@ -76,10 +76,10 @@ The website team reviews every PR
 See how decisions are made on content changes
 Acceptable PRs will be approved & merged into the dev branch
 Release
-master is continually synced to Netlify and will automatically deploy new commits to ethereum.org
+master is continually synced to Netlify and will automatically deploy new commits to darkchain.xyz
 The website team will periodically merge dev into master (typically multiple times per week)
 You can view the history of releases, which include PR highlights
-The ethereum.org website stack
+The darkchain.xyz website stack
 Node.js
 Yarn package manager
 Gatsby
@@ -100,7 +100,7 @@ Folder	Primary use
 /src/assets	Image assets
 /src/components	React components that do not function as stand alone pages
 /src/content	Markdown/MDX files for site content stored here.
-For example: ethereum.org/en/about/ is built from src/content/about/index.md
+For example: darkwood.capital/about/ is built from src/content/about/index.md
 The markdown files are parsed and rendered by src/templates/static.js*
 /src/content/developers/docs	*Markdown files in here use the Docs template: src/templates/docs.js
 /src/content/developers/tutorials	*Markdown files in here use the Tutorial template: src/templates/tutorial.js
@@ -110,7 +110,7 @@ The markdown files are parsed and rendered by src/templates/static.js*
 /src/lambda	Lambda function scripts for API calls
 /src/pages
 /src/pages-conditional	React components that function as stand alone pages.
-For example: ethereum.org/en/wallets/find-wallet is built from src/pages/wallets/find-wallet.js
+For example: metamask.io/en/wallets/find-wallet is built from src/pages/wallets/find-wallet.js
 /src/scripts
 /src/utils	Custom utility scripts
 /src/styles	Stores layout.css which contains root level css styling
