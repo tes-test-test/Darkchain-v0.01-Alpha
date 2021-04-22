@@ -1,0 +1,11 @@
+.DS_Store
+
+# Generated protobuf output
+/proto/out
+
+# IDE related files
+.idea
+
+# Gradle temp files
+protobuf/.gradle
+protobuf/build
