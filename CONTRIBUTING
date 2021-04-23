@@ -1,4 +1,4 @@
-# Logs
+# Logs Coverage for both data centers on P2P architecture
 logs
 *.log
 npm-debug.log*
