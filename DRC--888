@@ -2,6 +2,7 @@ DRC--888
 #*# underlying NFT protocol for the darkchain
 
  pragma solidity ^0.4.20;
+ ///allow standard to integrate
 
         /// @title DRC--888 Non-Fungible Token Standard
         /// @dev See https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md
