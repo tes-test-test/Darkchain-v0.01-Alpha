@@ -1,6 +1,6 @@
 #this file adds hyperconverged cloud computing to our arctic cirlce data center. It silos underlying level 3 limit order data for increased depth and granularity 
 
-#!/usr/bin/env bash
+#!/usr/bin/env bash.
 #   Use this script to test if a given TCP host/port are available
 cmdname=$(basename $0)J
 
