@@ -1,5 +1,5 @@
 
-    {
+    
         "Role": "verification",
         "Address": "verification-009.mainnet6.nodes.onflow.org:3569",
         "NodeID": "00b7793649e34f52e38c6848e036c2e408f9594bdce4eb6e414b763727d07c9a",
@@ -7,7 +7,7 @@
         "NetworkPubKey": "e0c141fc192cfdced2a3c8d28ab016a31ae3165d0df43e59200187e36ba079d55e7d38cf7a082c7550af716bca27238ef388260e53257802869120f7df2f4dfb",
         "StakingPubKey": "b8da9ac086419ca4d1755a9ef8a94001969fc3b13796324832490dae627d4dcdb5179cf19995ba90406f0d9031056deb08ddb205b75bfa8208861ce53821c6d1b54214b76356c7f55abe8055c91b32e456fb4c2e674acb917609a8394f32c60a"
     },
-    {
+    
         "Role": "collection",
         "Address": "collection-039.mainnet6.nodes.onflow.org:3569",
         "NodeID": "013c38bae9e32921d16d5d067578cbc845a1435de1984a2989a639c9592e9e2c",
@@ -15,7 +15,7 @@
         "NetworkPubKey": "5b2a09d8c3b0e0a59aee4832e9d4ee912b4920d89afeccfb8d31486c4d0c971ba40aea4404f231ac622d4a272d62aec3fca439888e21618dcdbe7d3843453ece",
         "StakingPubKey": "8af88903c3b775deed014bf2dad5420715b9817765d32287c6d570c9805dde939b2812d9588b2525d4de8dca4427d52005ec61ad5a1b00f440167ea6e0a78c8a5a29d3a05d10b5105476173d8ac92c8b75f7a3113dcdd2ec5d75f0ad00048334"
     },
-    {
+    
         "Role": "collection",
         "Address": "collection-054.mainnet6.nodes.onflow.org:3569",
         "NodeID": "01828673efacb401101436df3b380de8b3185fa927ee6578ec057f9bb6b1a275",
@@ -23,7 +23,7 @@
         "NetworkPubKey": "2b6d13a87cd1c61bb98768a8b0d2239c09839e535eef3354bf1a521d859d0dcc3c1db2b6aab29e3430774d6ae4b86e160123ec3373237e234ef1be0f64d9bd4a",
         "StakingPubKey": "88848b9ac4804523c17a06303cf2b34b501e4dd9cae79033c5ac52304f5ef6863bf11df1ea82aaf5f23e8280750e9ce50c129e8df09e3e883b2729783efe108381ec7b795c940a906007c1992517836f3721624caaeeb45aecbb946746f823b3"
     },
-    {
+    
         "Role": "collection",
         "Address": "collection-080.mainnet6.nodes.onflow.org:3569",
         "NodeID": "01f146c78796fb591078d615a1a76baeab09f3c93fb08f6aedb692ee3029ea63",
@@ -31,7 +31,7 @@
         "NetworkPubKey": "30229053803f9d27dd1e5f8eca5b03eed414faeea924d54b48c8cfc3e9f1bbb687e4f3dc3cc06aaf53996afd0656ee012a8494d9aff5219e4701518c70962617",
         "StakingPubKey": "8355e9051c60337312ac2008273d88c66533b58a5156bbf1555b5c63f7078fdb60c58461a8d45aed4717caac4baaf2940943f165c78cd0da510ccf0a3662268d6da0a215fe239e7831c6eec6510af415d88e9937d380e6d6593b67570deb2a19"
     },
-    {
+    
         "Role": "consensus",
         "Address": "consensus-082.mainnet6.nodes.onflow.org:3569",
         "NodeID": "046d9f826297958256ade88b9301e859e6966deb64b28ab906cc3fc991322a50",
@@ -39,7 +39,7 @@
         "NetworkPubKey": "d3f24023c48be2f3df7b8c3fa4ea7c91beda05a7951b22e46cbb39e4e884377aaab643d57e2c7bb685fd9c1a642ae27325b517acb931e40a4bd05553dedc1dfd",
         "StakingPubKey": "989517f461b06951147ff98bf0a70aee6f9c85afbdc6b967c0f2fdca4adf1e4254ed15de95633a0e057615a91f16f4d202187dc7c0937ca07c7f51d1229f75346b2c0118ad0556abc3813ddfc74fab9438dddad6b6005e170ee0a5e0ac586071"
     },
-    {
+    
         "Role": "collection",
         "Address": "collection-058.mainnet6.nodes.onflow.org:3569",
         "NodeID": "04d4982d97d7dbe194c1acb922a3c03f389b8fb3c0ca0e3473c55c0ebd7e1487",
@@ -47,7 +47,7 @@
         "NetworkPubKey": "d0bd5ff88bff77f88927bead90f74e922ac3037ca4436dd0cb52bf74074a1151249ea687ef5c12aa1718cdc340f5162d200b64fc24cd43ca73ec630623c69594",
         "StakingPubKey": "b2b8c6f23fd9fe18e54973814e7663cfaf1e9a647adeea955770dc17880fc7d0145c761079b351bf6e21b8b8124a248816600f9b04e07fb37820b6bb2de27b7b1eaf87a505b72d4054b54ec262dcd7b6d56d84ffdd774d8d1bc337ab6733b79d"
     },
-    {
+    
         "Role": "collection",
         "Address": "collection-027.mainnet6.nodes.onflow.org:3569",
         "NodeID": "062afa93d39744336f3b8438b2667e7ae364e16a818e028c0a22fed01debd74c",
@@ -55,7 +55,7 @@
         "NetworkPubKey": "ed53a44891d26f87439f5fc5c479b590ffd53db49fab8341a2f3fc64c1985a8f525e4e818e202d1616bcaf03a3eb6f9acde100f0d2dca4cf199bc9c10a9809c5",
         "StakingPubKey": "891f0d75ee55a001c50f29fd93323c620a28b4330cf30cf94381a0ab375fa20c5090ac571ead045096925c560629b7ff05d4ab4848ef0f50e200d0092eee642caea5f3efb72591bea32f283338e226fe6793a3e1b3b5882f399ad2016b25b846"
     },
-    {
+    
         "Role": "consensus",
         "Address": "consensus-070.mainnet6.nodes.onflow.org:3569",
         "NodeID": "0767a735bfa9f6b3ce4774897ea68f81aa9b6a497dfdf1ae7d1ccfe6e37cf442",
@@ -63,7 +63,7 @@
         "NetworkPubKey": "e3f599544d6f9153919c7687ee42f02177828e7ce1047e50786f628276cc6a236aa65ade00016a5e4fe04647b49652dd0fd1f0a31963812698efd6ec5b995497",
         "StakingPubKey": "8497bb568148d01bd1003e9dbdc935619f7cd028e26e8b1b46f3d35bca2a238318ef33e36975d532e308558423a33df602ab6f356cc459f16184f2630ffb380509485b5507b56bd582e5c8d52418e8e3874ac5774b18f43d3af77257c8dbd2e5"
     },
-    {
+    
         "Role": "consensus",
         "Address": "consensus-051.mainnet6.nodes.onflow.org:3569",
         "NodeID": "08c449dda07836e41e774feaa7d7e241cab53aec425a6a3a5fd6012af4602764",
@@ -71,7 +71,7 @@
         "NetworkPubKey": "7136f5ac461ec7c706ccb30d89ee32213e0b325137430ded16c3731eb7cc38d0ec47a26c7967bb3ecb68923121a12008202b2d0a1eaf4d6a91e80bcfe6ea300f",
         "StakingPubKey": "b0e900c2407a7580ad5b39b8a0d12def575535dbc110ea7c26e4b57b443baa01cfe149c86a3a5c2699b7dd4a4f1ca1341246dcac83c0e249b1855ac67f04b557a20fe7f51884a9b1d9c1629e404e546d812632aae75184053558c6b3f1126639"
     },
-    {
+    
         "Role": "consensus",
         "Address": "consensus-044.mainnet6.nodes.onflow.org:3569",
         "NodeID": "0966e75a09c001d64770dd2037b9a62d7b081ae54be843102d5391e39f298116",
