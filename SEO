@@ -1,5 +1,5 @@
 ody {
-    font-family: 'DM Sans', 'Arial', sans-serif;
+    font-family: 'DM Sans','Calisto MT', 'Arial', sans-serif;
     margin: max(10vw, 20px);
 }
 
